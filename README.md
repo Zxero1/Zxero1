@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Zeroo000/Zeroo000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 I'm Zero, and I like to code mainly in JS
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Zeroo000"></img>
+  <br />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeroo000"></img>
+<p>
