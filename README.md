@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Zero, and I like to code mainly in JS. I'm still a student (Highschool) so I have so much to learn about computer programming.
 
 - 🔭 I’m currently working on a Discord BOT which is [Gin-san](https://bit.ly/3kLsjkh) and also [Project-Zero](https://github.com/Zeroo000/Project-Zero)
-- 🌱 I’m currently learning C, C++, JavaScript, HTML, Python and will be more soon!
+- 🌱 I’m currently learning JavaScript, Python and will be more soon!
 - 💬 Ask me about none.
 - 📫 How to reach me: https://discord.gg/ZsSx8XB
 - 😄 Pronouns: He/Him/His
