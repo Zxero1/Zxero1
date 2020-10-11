@@ -8,6 +8,6 @@
 - ⚡ Fun fact: I hate my life.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeroo000&show_icons=true&count_private=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeroo000)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeroo000)
 ![GitHub metrics](https://metrics.lecoq.io/Zeroo000)  
 
