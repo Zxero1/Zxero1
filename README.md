@@ -7,8 +7,7 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I hate my life.
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Zeroo000"></img>
-  <br />
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeroo000"></img>
-<p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeroo000&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeroo000)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub metrics](https://metrics.lecoq.io/Zeroo000)  
+
