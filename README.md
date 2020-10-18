@@ -1,4 +1,4 @@
-![Discord](https://discord.c99.nl/widget/theme-1/211774244294623243.png)
+![Discord](https://discord.c99.nl/widget/theme-3/211774244294623243.png)
 
 ### Hi there 👋 I'm Zero, and I like to code mainly in JS. I'm still a student (Highschool) so I have so much to learn about computer programming.
 
